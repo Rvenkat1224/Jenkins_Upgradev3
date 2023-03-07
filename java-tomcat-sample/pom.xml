@@ -26,7 +26,6 @@
           <execution>
             <phase>package</phase>
             <goals><goal>copy</goal></goals>
-            <defaultGoal>install</defaultGoal>
             <configuration>
               <artifactItems>
                 <artifactItem>
